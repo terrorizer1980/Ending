@@ -3,8 +3,8 @@
 
 ```
 
-    Zikin <i@zikin.org>
-    Fingerprint: 63356FFD89C19E566E49D9F216B995254DD67B5F
+ > Zikin <i@zikin.org>
+ > Fingerprint: 63356FFD89C19E566E49D9F216B995254DD67B5F
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: This is a revocation certificate
