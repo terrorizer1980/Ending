@@ -1,7 +1,7 @@
 # 该结束了
 如果您之前导入过我的GPG/PGP公钥，请移除或使用改吊销证书吊销
 
-`
+```
 这是 OpenPGP 密钥的吊销证书：
 
              Zikin <i@zikin.org>
@@ -23,4 +23,4 @@ TdZ7XyrjAP0YGJ49ufFt9aCuGFhtKUo+fUPSp9XBFSXi1WJb4NmDCwEA93uHX1Dt
 3dzPi7OhK709NhFrGwxSRYx7htR5cWVd0gQ=
 =Zcj6
 -----END PGP PUBLIC KEY BLOCK-----
-`
+```
